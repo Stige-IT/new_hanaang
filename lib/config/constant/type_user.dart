@@ -1,0 +1,1 @@
+const List<String> typeUser = ["Default", "Distributor", "Agen", "Keluarga", "Warga"];

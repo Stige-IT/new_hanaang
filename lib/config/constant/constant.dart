@@ -1,0 +1,4 @@
+/// * TODO TOKEN DUMMY, [MANDATORY] CHANGE THE TOKEN for PRODUCTION
+const tokenDummy = "10|mXW7eESgTt3uy4kulBZirFgKhgh9j0shx0VnFM8I";
+const tokenFCM =
+    "AAAAwPZR6lU:APA91bE41fkU3kvWO02EeNHBohBQqSS4eCMpTEBAOt0xo5D1k9_Gkshuvf0Eu-KrRlHoeXxNLxgSj5EHNSN2ub5EGlp8UgnIjMmYZlMSypl7ZSmzXu6fodA8ZW2QmAsHyhpkSdE9pugs";
